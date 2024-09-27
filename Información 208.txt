@@ -1,0 +1,4 @@
+Se encontraron 32 sillas
+30 azul claro
+1 gris
+1 azul oscuro con inventario 150575
